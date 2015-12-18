@@ -1,0 +1,28 @@
+name: jet
+favicon: null
+layout_spectrum: 0.3155165808275342
+typography_spectrum: 0.3408570468891412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45519232121296227
+  lightness: 0.6893899298738688
+  saturation: 0.1097426931373775
+  rhythmicContrast: 0.49337095161899924
+purpose: []
