@@ -1,6 +1,6 @@
 name: jet
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76625
 typography_spectrum: 0.19512
 title: Jason Erick Taylor
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#beb5ae'
+    - '#d3202e'
     - '#000000'
-    - '#b7716f'
-    - '#981311'
-  brandStrength: 0.45519232121296227
-  lightness: 0.625
+    - '#ffcd32'
+    - '#f2f2f4'
+    - '#7d7e81'
+  brandStrength: 1
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
