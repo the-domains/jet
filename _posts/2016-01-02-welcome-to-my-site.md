@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: It still has that new site smell.
-datePublished: '2016-01-02T21:36:45.651Z'
-dateModified: '2016-01-02T21:36:21.160Z'
+datePublished: '2016-01-03T23:07:03.814Z'
+dateModified: '2016-01-03T23:06:23.130Z'
 title: 'Welcome to my site!'
 author: []
+sourcePath: _posts/2016-01-02-welcome-to-my-site.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-welcome-to-my-site.md
-published: true
-url: welcome-to-my-site/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2da2381-3df9-49d7-aab3-2654f7e4d41c.jpg)
@@ -34,7 +34,7 @@ This website is on the platform of [The Grid][0]. As stated on their website:
 
 > The first artificial intelligence (AI) platform that creates websites.
 
-I became a founding member a long time ago and I am now finally able to use it. I used SquareSpace for the time being and though it served my needs it was really only a stepping stone to be getting on The Grid. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dfbaa38-b819-4d40-ba5b-99082ddc1ad1.png)
+I became a founding member a long time ago and I am now finally able to use it. I used SquareSpace for the time being and though it served my needs it was really only a stepping stone to be getting on The Grid. 
 
 I will most likely continue the communications, web & graphic design work as a side gig. I enjoy many elements of it even though it isn't my main squeeze, acting. Posh Cat was originally the name I was to use for my production company for my film projects I was planning to do in Austin but things have a way of changing so I put that on the shelf. 
 
