@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: It still has that new site smell.
-datePublished: '2016-01-03T23:07:03.814Z'
-dateModified: '2016-01-03T23:06:23.130Z'
+datePublished: '2016-01-03T23:07:48.877Z'
+dateModified: '2016-01-03T23:07:42.538Z'
 title: 'Welcome to my site!'
 author: []
 sourcePath: _posts/2016-01-02-welcome-to-my-site.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: welcome-to-my-site/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2da2381-3df9-49d7-aab3-2654f7e4d41c.jpg)
