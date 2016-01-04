@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: A little bit of why I made the move to begin with.
-datePublished: '2016-01-03T22:37:18.801Z'
-dateModified: '2016-01-03T22:36:44.133Z'
+datePublished: '2016-01-04T00:44:12.195Z'
+dateModified: '2016-01-04T00:44:07.894Z'
 title: From ATX to NYC
 author: []
+sourcePath: _posts/2016-01-03-from-atx-to-nyc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-from-atx-to-nyc.md
-published: true
 url: from-atx-to-nyc/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb0c2c3-d030-48d5-873e-98966412f014.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc1bcc07-5c39-4c7b-92f5-29b0325b4848.jpg)
 
 The choice to move was both easy and difficult. Here I was, in Austin where I had lived for almost ten years, and had eked out a reasonably comfortable life. I was attending an amazing acting class at [In The Moment Studios with Laurel Vouvray][0], had a great job with [Interfaith Action of Central Texas][1] as their Communications Coordinator, was working on film projects here and there and had a great network of friends that I really cared about and who cared about me.
 
