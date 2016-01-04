@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A little bit of why I made the move to begin with.
-datePublished: '2016-01-04T00:44:12.195Z'
-dateModified: '2016-01-04T00:44:07.894Z'
+datePublished: '2016-01-04T00:46:25.999Z'
+dateModified: '2016-01-04T00:46:22.289Z'
 title: From ATX to NYC
 author: []
 sourcePath: _posts/2016-01-03-from-atx-to-nyc.md
